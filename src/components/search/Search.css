@@ -1,0 +1,15 @@
+.container__search {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.search {
+  background-color: blue;
+  width: 80%;
+  margin: 5px auto;
+  border-radius: 25px;
+}
+
+.search__btn {
+  border-radius: 25px;
+}
